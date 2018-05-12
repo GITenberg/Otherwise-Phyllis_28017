@@ -21,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4371
     wikipedia: http://www.indianahistory.org/library/manuscripts/collection_guides/M0666.html
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28017#Otherwise-Phyllis
 gutenberg_issued: '2009-02-07'
 gutenberg_type: Text
 identifiers:
